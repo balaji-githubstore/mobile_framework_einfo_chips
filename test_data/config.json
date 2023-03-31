@@ -1,6 +1,6 @@
 {
   "port": "7878",
-  "device": "cloud",
+  "device": "local",
   "platformName": "android",
   "deviceName": "oneplus",
   "app": "",

@@ -11,3 +11,5 @@ class TestAndroidDeviceLocal(AppiumConfig):
     def test_valid_login(self):
         print(self.driver.page_source)
         time.sleep(2)
+
+    
